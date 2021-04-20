@@ -12,7 +12,7 @@ class Budget:
 			self.food+=amount
 		elif 'transport'==category:
 			self.transport+=amount
-		elif 'clothing'== category:cler
+		elif 'clothing'== category:
 			self.clothing+=amount
 		elif 'entertainment'== category:
 			self.entertainment+=amount
